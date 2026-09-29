@@ -1,0 +1,5 @@
+Independent maintenance fork of @rollup/plugin-inject 5.0.5.
+Original copyright, author attribution, and license files are retained unchanged.
+Upstream: https://github.com/rollup/plugins
+Base commit: d55ce9c6d76a008b0d0bcec86b310e1e51636384
+Stackline is not affiliated with or endorsed by upstream maintainers.

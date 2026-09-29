@@ -1,0 +1,16 @@
+{
+  "slug": "rollup-plugin-inject",
+  "upstream": "@rollup/plugin-inject",
+  "upstreamVersion": "5.0.5",
+  "upstreamIntegrity": "sha512-2+DEJbNBoPROPkgTDNe8/1YXWcqxbN5DTjASVIOx8HS+pITXushyNiBV56RB08zuptzz8gT3YfkqriTBVycepg==",
+  "upstreamCommit": "d55ce9c6d76a008b0d0bcec86b310e1e51636384",
+  "sourcePackageDirectory": "packages/inject",
+  "overlays": {},
+  "tests": [
+    "npm install --global pnpm@8.15.9",
+    "pnpm install --filter @rollup/plugin-inject... --ignore-scripts --frozen-lockfile",
+    "pnpm --filter @rollup/plugin-inject run build",
+    "pnpm --filter @rollup/plugin-inject run test",
+    "pnpm --filter @rollup/plugin-inject run test:ts"
+  ]
+}

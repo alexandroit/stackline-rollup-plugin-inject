@@ -1,0 +1,211 @@
+{
+  "checkedAt": "2026-09-29T00:22:07.903653+00:00",
+  "upstreamRepository": "rollup/plugins",
+  "coverage": "Most recently updated 100 open and 30 closed issue/PR entries; PRs removed. This is triage evidence, not a claim of exhaustive review.",
+  "openIssues": [
+    {
+      "number": 2024,
+      "title": "@rollup/plugin-virtual: TS2349: This expression is not callable under modern \"moduleResolution\": \"NodeNext\"",
+      "url": "https://github.com/rollup/plugins/issues/2024"
+    },
+    {
+      "number": 1860,
+      "title": "`types` are wrong configed",
+      "url": "https://github.com/rollup/plugins/issues/1860"
+    },
+    {
+      "number": 2023,
+      "title": "Typescript and noEmitOnError regressions/issues",
+      "url": "https://github.com/rollup/plugins/issues/2023"
+    },
+    {
+      "number": 2022,
+      "title": "typescript `6.0.3` dependency issue",
+      "url": "https://github.com/rollup/plugins/issues/2022"
+    },
+    {
+      "number": 2016,
+      "title": "`@rollup/plugin-typescript` - Support for TypeScript 7",
+      "url": "https://github.com/rollup/plugins/issues/2016"
+    },
+    {
+      "number": 2015,
+      "title": "Support js-yaml v5",
+      "url": "https://github.com/rollup/plugins/issues/2015"
+    },
+    {
+      "number": 1874,
+      "title": "[node-resolve] Replace `resolve` and some rollup-baked `exports` fields handling with a Rust-based resolver",
+      "url": "https://github.com/rollup/plugins/issues/1874"
+    },
+    {
+      "number": 2014,
+      "title": "Babel 8 support",
+      "url": "https://github.com/rollup/plugins/issues/2014"
+    },
+    {
+      "number": 2011,
+      "title": "replace: Should property accessors be replaced or not?",
+      "url": "https://github.com/rollup/plugins/issues/2011"
+    },
+    {
+      "number": 2008,
+      "title": "`@rollup/plugin-typescript` should error on TypeScript import of missing `.json` file (bundled with a different name by `@rollup/plugin-json`)",
+      "url": "https://github.com/rollup/plugins/issues/2008"
+    },
+    {
+      "number": 2005,
+      "title": "@rollup/plugin-babel causes SOURCEMAP_ERROR while reporting THIS_IS_UNDEFINED from unmapped generated helper code",
+      "url": "https://github.com/rollup/plugins/issues/2005"
+    },
+    {
+      "number": 1885,
+      "title": "[@rollup/plugin-commonjs] Bring back named exports in commonjs entry points",
+      "url": "https://github.com/rollup/plugins/issues/1885"
+    },
+    {
+      "number": 1992,
+      "title": "import YAML file, RollupError: 'Legacy octal escape is not permitted in strict mode'",
+      "url": "https://github.com/rollup/plugins/issues/1992"
+    },
+    {
+      "number": 1948,
+      "title": "[@rollup/plugin-typescript]: Source-map source paths break if \"sourceRoot\" is specified",
+      "url": "https://github.com/rollup/plugins/issues/1948"
+    },
+    {
+      "number": 1970,
+      "title": "plugin-terser does not share nameCache between minify invocations when chunking across multiple entrypoint and common files",
+      "url": "https://github.com/rollup/plugins/issues/1970"
+    },
+    {
+      "number": 1973,
+      "title": "Minification removes class identifiers causing observable runtime change in Class.name",
+      "url": "https://github.com/rollup/plugins/issues/1973"
+    },
+    {
+      "number": 1966,
+      "title": "Incorrect sourcemap sources paths when outDir differs from source directory",
+      "url": "https://github.com/rollup/plugins/issues/1966"
+    },
+    {
+      "number": 1935,
+      "title": "charlie: ESM update of auto-install",
+      "url": "https://github.com/rollup/plugins/issues/1935"
+    },
+    {
+      "number": 1918,
+      "title": "@rollup/plugin-url does not use the asset mechanism",
+      "url": "https://github.com/rollup/plugins/issues/1918"
+    },
+    {
+      "number": 1946,
+      "title": "node-resolve plugin discards this re-exported file",
+      "url": "https://github.com/rollup/plugins/issues/1946"
+    },
+    {
+      "number": 1941,
+      "title": "Allow typescript transpilation not to match rollup file option",
+      "url": "https://github.com/rollup/plugins/issues/1941"
+    },
+    {
+      "number": 1672,
+      "title": "[@rollup/plugin-commonjs] engine-v8-version.js:25 Uncaught TypeError: userAgent.match is not a function at engine-v8-version.js:25:21 in core-js",
+      "url": "https://github.com/rollup/plugins/issues/1672"
+    },
+    {
+      "number": 986,
+      "title": "commonjs - Missing export (Error: ... is not exported by ...)",
+      "url": "https://github.com/rollup/plugins/issues/986"
+    },
+    {
+      "number": 1873,
+      "title": "[node-resolve]: the external module render path is not expected",
+      "url": "https://github.com/rollup/plugins/issues/1873"
+    },
+    {
+      "number": 1739,
+      "title": "Wasm plugin to support latest ESM Integration & Source Phase Imports",
+      "url": "https://github.com/rollup/plugins/issues/1739"
+    },
+    {
+      "number": 1858,
+      "title": "`@rollup/plugin-typescript` seems not recognizing `.d.[ext].ts` style definition files?",
+      "url": "https://github.com/rollup/plugins/issues/1858"
+    },
+    {
+      "number": 1851,
+      "title": "Typescript conflict in Deno",
+      "url": "https://github.com/rollup/plugins/issues/1851"
+    },
+    {
+      "number": 539,
+      "title": "Proposal: Add support for full ES-Node interop",
+      "url": "https://github.com/rollup/plugins/issues/539"
+    },
+    {
+      "number": 3,
+      "title": "Core-Critical Plugin Script",
+      "url": "https://github.com/rollup/plugins/issues/3"
+    }
+  ],
+  "recentClosedIssues": [
+    {
+      "number": 1820,
+      "title": "[@rollup/plugin-typescript] Using rewriteRelativeImportExtension with dynamic imports leaves out helper function",
+      "url": "https://github.com/rollup/plugins/issues/1820"
+    },
+    {
+      "number": 2012,
+      "title": "`@rollup/plugin-typescript` should work with `@typescript/typescript6`",
+      "url": "https://github.com/rollup/plugins/issues/2012"
+    },
+    {
+      "number": 2009,
+      "title": "`@rollup/plugin-babel`: Babel 8 compatibility?",
+      "url": "https://github.com/rollup/plugins/issues/2009"
+    },
+    {
+      "number": 2007,
+      "title": "graphql plugin: v3 changelog doesn't document its breaking changes",
+      "url": "https://github.com/rollup/plugins/issues/2007"
+    },
+    {
+      "number": 1990,
+      "title": "fix(terser): update serialize-javascript to ^7.0.5 to fix security vulnerabilities",
+      "url": "https://github.com/rollup/plugins/issues/1990"
+    },
+    {
+      "number": 1726,
+      "title": "[@rollup/plugin-tpescript] Rollup does not get `module` and `moduleResolution` settings from extended `tsconfig.json`",
+      "url": "https://github.com/rollup/plugins/issues/1726"
+    },
+    {
+      "number": 2001,
+      "title": "dataToEsm emits a duplicate default export for a `default` key with includeArbitraryNames",
+      "url": "https://github.com/rollup/plugins/issues/2001"
+    },
+    {
+      "number": 832,
+      "title": "Dealing with node_module dependencies that are typescript files. Getting Error: Unexpected token",
+      "url": "https://github.com/rollup/plugins/issues/832"
+    },
+    {
+      "number": 1993,
+      "title": "[rollup-multi-entry]: Specify input order in v7",
+      "url": "https://github.com/rollup/plugins/issues/1993"
+    },
+    {
+      "number": 1541,
+      "title": "Can't correctly import plugins into a TypeScript module",
+      "url": "https://github.com/rollup/plugins/issues/1541"
+    },
+    {
+      "number": 1984,
+      "title": "[plugin-commonjs] vite build gets stuck since vite 8",
+      "url": "https://github.com/rollup/plugins/issues/1984"
+    }
+  ],
+  "decision": "Maintenance adoption with preserved runtime payload. No runtime defect correction is claimed. Reports remain visible for subsequent targeted reproduction.",
+  "limits": "Issue titles and bodies were reviewed from the bounded primary-source snapshot; this does not claim exhaustive issue closure or vulnerability absence."
+}
