@@ -4,7 +4,7 @@
     {
       "name": "@stackline/rollup-plugin-inject",
       "path": "README.md",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "baselineVersion": "1.0.0",
       "keywords": [
         "stackline",
@@ -22,8 +22,8 @@
       "homepage": "https://alexandro.net/docs/vanilla/rollup-plugin-inject/",
       "baselineTarball": "https://registry.npmjs.org/@stackline/rollup-plugin-inject/-/rollup-plugin-inject-1.0.0.tgz",
       "baselineIntegrity": "sha512-WfxVqnUeidZrvVyHx/z/3IJy/ebp6HuMtYg3Z2sLbCGn4c/fEdUoDogS4VlWYzyZrcbCqvh0MC/92N6jqCEQzw==",
-      "expectedSha512": "25bf856513ef27e9b4e798f5180e1b68146e037ed1f7d2f82f57b1acccfbb2e836bc0b7003df9ef0b196b7771da929e38fbd7e0de7f44b20c1fc21191a729939",
-      "tag": "docs-stackline-rollup-plugin-inject-v1.0.1"
+      "expectedSha512": "3a200cecae018c777110622458fabf4b15db1a0d1d98d06bbb6bee02c6c363b45ce8a89fee865108bd1d1b15e53a29285ba3ccba24d9ef44b52e174be4acb75a",
+      "tag": "docs-stackline-rollup-plugin-inject-v1.0.2"
     }
   ]
 }
