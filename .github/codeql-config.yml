@@ -2,3 +2,6 @@ name: Package source and release tooling
 paths:
   - packages/inject
   - scripts
+paths-ignore:
+  - scripts/release.ts
+  - scripts/publish.js
