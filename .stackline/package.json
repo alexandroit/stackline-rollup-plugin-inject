@@ -1,6 +1,6 @@
 {
   "name": "@stackline/rollup-plugin-inject",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/alexandroit/stackline-rollup-plugin-inject.git"
   },
   "author": "Rich Harris <richard.a.harris@gmail.com>",
-  "homepage": "https://github.com/alexandroit/stackline-rollup-plugin-inject#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/rollup-plugin-inject/",
   "bugs": {
     "url": "https://github.com/alexandroit/stackline-rollup-plugin-inject/issues"
   },
@@ -47,6 +47,11 @@
     "LICENSE"
   ],
   "keywords": [
+    "stackline",
+    "npm-package",
+    "rollup-plugin-inject",
+    "typescript",
+    "nodejs",
     "rollup",
     "plugin",
     "inject",
